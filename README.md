@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joaogardiman
-- 👀 I’m interested in  cursar na faculdade ciencias da computação
-- 🌱 I’m currently learning  lógica de progração na alura...
+- 👀 I’m interested in study computer science in university.
+- 🌱 I’m currently learning programming logic in alura.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : joaopedrofernandesgardiman@gmail.com
 
